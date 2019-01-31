@@ -24,6 +24,6 @@ if __name__ == "__main__":
 
     else:
         for i in range (0,50):
-            dst = '/Documents/wormy' + str(i) + '.py'
+            dst = '../wormy' + str(i) + '.py'
             copyfile('./mormy.py',dst)    
     
