@@ -25,7 +25,7 @@ For this specific worm we will be testing out how to create a basic worm that is
 4) Repeat steps 1-3 with infected machine
 
 
-|Problems that I faced|
+|Problems that I faced| | 
 |-----|-----|
-|No way to stop replication| Because of the way this worm works if each machine were to try to find other machines and run the script it would be problematic if say machine 1, infected machine 2 then if machine 2 scaned the network it would also see machine 1 and infect machine 1 again running the script one more time. Over time this could take down the entire network|
+|No way to stop replication | Because of the way this worm works if each machine were to try to find other machines and run the script it would be problematic if say machine 1, infected machine 2 then if machine 2 scaned the network it would also see machine 1 and infect machine 1 again running the script one more time. Over time this could take down the entire network |
 |Getting a readable n-map output| n-map has many different outputs, the one I used is the grepable output using the flag -oG since the other outputs gave too much information and for the purposes of this worm I only want information about the ipaddress. I can see in the future using the other outputs to perform more elborate scanning|
