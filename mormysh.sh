@@ -6,9 +6,11 @@ python iplist.py
 echo $1
 
 while read p; do
-    if [ '$1' != '$p' ]
+    if [ $1 != $p ]
     then
+	
         python3 mormy.py $p 1
+	sleep 5
     fi
 done < ips.txt
 
