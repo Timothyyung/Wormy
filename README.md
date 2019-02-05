@@ -24,12 +24,29 @@ For this specific worm we will be testing out how to create a basic worm that is
 3) If the device is able to connect, will run a py script that will download the worm from github
 4) Repeat steps 1-3 with infected machine
 
+#### Safety:
+
+To keep this worm from doing any real damage we only use n-map scanned onto machines that are connected machines that are using my laptop's shared internet. In addition since we are using only default user and password for my kali machine the worm can only target kali linux machines that still have the default username and password.
+
+### What in the repo
+
+Wormy.py: This script simply creates copies of itself on the machines. For now it creates them in the previous directory under the same name (This allows for me to delete them easier ) however could create a method to randomly generate names for the files as well as storing them in multiple locations making it hard to remove
+
+mormy.py: This python script is used to attempt to accesses other machines and download/run the worm
+
+iplist.py: generates a list of ips using the txt file generated from n-map
+
+wormsh.sh: This bash script is used to discover networks and call mormy.py to attempt to spread to all machines it can find with n-map
+
+
+
 
 |Problems that I faced| | 
 |--------|-----|
 |No way to stop replication | Because of the way this worm works if each machine were to try to find other machines and run the script it would be problematic if say machine 1, infected machine 2 then if machine 2 scaned the network it would also see machine 1 and infect machine 1 again running the script one more time. Over time this could take down the entire network |
 |Getting a readable n-map output| n-map has many different outputs, the one I used is the grepable output using the flag -oG since the other outputs gave too much information and for the purposes of this worm I only want information about the ipaddress. I can see in the future using the other outputs to perform more elborate scanning|
 |Bash file| Had to learn how to use bash files to itereate through the n-map output and exectue python script|
+|Python libs| Some of the python libaraies are not downloaded onto the pi when executing the script, needed to include a way for the machine to download the python libaray first before attempting to run the worm.|
 
 
 ## Tools
@@ -45,3 +62,9 @@ For this specific worm we will be testing out how to create a basic worm that is
 |Python| Since the worm is written in python, This makes it so that only machines that can interpret python will be able to run it. While this is not an issue for linux machines ( As many linux machines come installed/ written in python ) for windows the interpreter must be downloaded beforehand |
 |Shell Script| The sh file is written for linux/mac and the windows terminal is different|
 |Network| Since we only try to ssh into machines where we know that user and password, it would be impossible to spread the worm to machines that do not use default user and passwords.|
+
+
+## Modifications 
+
+1) make a worm in c and try to run on windows machine.
+
