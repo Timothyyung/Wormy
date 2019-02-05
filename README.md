@@ -26,6 +26,22 @@ For this specific worm we will be testing out how to create a basic worm that is
 
 
 |Problems that I faced| | 
-|-----|-----|
+|--------|-----|
 |No way to stop replication | Because of the way this worm works if each machine were to try to find other machines and run the script it would be problematic if say machine 1, infected machine 2 then if machine 2 scaned the network it would also see machine 1 and infect machine 1 again running the script one more time. Over time this could take down the entire network |
 |Getting a readable n-map output| n-map has many different outputs, the one I used is the grepable output using the flag -oG since the other outputs gave too much information and for the purposes of this worm I only want information about the ipaddress. I can see in the future using the other outputs to perform more elborate scanning|
+|Bash file| Had to learn how to use bash files to itereate through the n-map output and exectue python script|
+
+
+## Tools
+
+1) paramiko libaray: A library written in python to allow a script to run commands in the terminal.
+2) python: worm is written in python and simply creates copies of itself on the machine. A payload can be added to this script
+3) github: We import the worm onto other machines using git clone and cloning this repository. In the future we can host the worm on a seperate server instead.
+
+## Limitations:
+
+|limitation | description|
+|---------|--------------|
+|Python| Since the worm is written in python, This makes it so that only machines that can interpret python will be able to run it. While this is not an issue for linux machines ( As many linux machines come installed/ written in python ) for windows the interpreter must be downloaded beforehand |
+|Shell Script| The sh file is written for linux/mac and the windows terminal is different|
+|Network| Since we only try to ssh into machines where we know that user and password, it would be impossible to spread the worm to machines that do not use default user and passwords.|
