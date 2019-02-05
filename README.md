@@ -67,4 +67,6 @@ wormsh.sh: This bash script is used to discover networks and call mormy.py to at
 ## Modifications 
 
 1) make a worm in c and try to run on windows machine.
+2) create a reverse shell
+3) try to make the worm cross platform
 
