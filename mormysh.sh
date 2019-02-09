@@ -8,7 +8,8 @@ echo $1
 while read p; do
     if [ $1 != $p ]
     then
-	
+	echo $1 
+	echo $p	
         python3 mormy.py $p 1
 	sleep 5
     fi
