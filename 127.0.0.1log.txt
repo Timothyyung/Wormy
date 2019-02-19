@@ -1,0 +1,860 @@
+i made a key loog    gger
+wanna infect fom      some computers
+l    vim fileperiodlgTab  ogTab  
+DownDownDownRightRightRightRightRightRightRightRightRightRightRightRightRightRightEscapeShift_Rcolonq
+vim fileperiodlog
+DownLeftUpDownRightLeftDownRightLeftUpRightDownLeftDownUpRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightDownLeftUpRightDownUpDownRightDownLeftEscapeShift_Rcolonq
+Up
+Shift_Rcolonq    
+Control_LControl_L' 'Escape' 'Shift_R' 'colon' 'q
+' 's' 'o' 'm' 'e ' 't' 'h' 'i' 'n' 'g ' 'h' 'e' 'l' 'l' 'o ' 'w' 'o' 'r' 'l' 'd ' 'p' 'b' 'BackSpace' 'BackSpace' 'b' 'a' 'l' 'c' 'a' 'f' 'd' 's' 'a    ' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'v' 'i' 'm ' 'f' 'i' 'l' 'e' 'period' 'l' 'o' 'g
+' 'Up' 'Up' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Control_L' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025027]' '[269025026]' '[269025026]' '[269025026]' '[269025027]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' '[269025026]' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'r ' 'v' 'e' 'c' 't' 'o' 'r ' '1' 'minus' '2' 'BackSpace' '0
+' 'BackSpace' '2' '0
+' 'Up' 'b' 'BackSpace' 'n ' 'BackSpace' '1 ' 'Shift_R' 'less' 'minus ' 's' 'e' 'q' 'Shift_R' 'parenleft' 'Right' 'backslash' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' '1' 'Shift_R' 'colon' '2' '0
+' 'n' '2 ' 'Shift_R' 'less' 'minus ' '2' '0' 'Shift_R' 'colon' '1' 'n' '3 ' 'Shift_R' 'less' 'minus ' '1' 'BackSpace' 's' 'e' 'q' 'Shift_R' 'parenleft' '1' 'comma' '2' '0' 'comma' '2' 'c' 'o' 'l' 'o' 'r' 's ' 'Shift_R' 'less' 'equal' 'BackSpace' 'equal' 'Shift_R' 'parenleft' 'Delete' 'BackSpace' 'BackSpace' 'minus ' 'Shift_R' 'parenleft ' 'BackSpace' 'r' 'BackSpace' 'apostrophe' 'r' 'e' 'd' 'comma' 'BackSpace' 'Right' 'comma' 'apostrophe' 'b' 'l' 'u' 'e' 'apostrophe' 'comma' 'semicolon' 'g' 'r' 'BackSpace' 'BackSpace' 'BackSpace' 'apostrophe' 'g' 'r' 'e' 'e' 'n' 'Right' 'comma' 'apostrophe' 'y' 'e' 'l' 'l' 'o' 'w' 'Right' 'comma' 'apostrophe' 'b' 'l' 'a' 'c' 'k' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'c' 'Down' 'c' 'l' 'a' 'i' 'm' 's ' 'Shift_R' 'less' 'equal ' 'c' 'Shift_R' 'parenleft' 'Shift_R' 'T' 'comma' 'Shift_R' 'F' 'Right' 'Left' 'BackSpace' 'minus' 'n' '1
+' 'd' 'i' 's' 'p' 'l' 'a' 'y ' 'l' 'e' 'n' 'Down ' 'r
+' 'Left' 'Left' 'BackSpace' 'g' 'BackSpace' 't' 'h ' 'o' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'g' 't' 'h ' 'o' 'f ' 'a' 'r' 'r' 'a' 'w' 'BackSpace' 'y ' 'i' 'n
+' 'l' 'e' 'n' 'g' 't' 'h' 'Shift_R' 'parenleft' 'n' '1' 'Right' 'l' 'e' 'n' 'g' 't' 'h' 'Shift_R' 'parenleft' 'n' '2' 'Shift_R' 'parenright
+' 'l' 'e' 'n' 'g' 't' 'h' 'Shift_R' 'parenleft' 'BackSpace' 'n' '3' 'Shift_R' 'BackSpace' 'BackSpace' 'Shift_R' 'parenleft' 'n' '3' 'Shift_R' 'Right
+' 'l' 'e' 'n' 'g' 't' 'h' 'Shift_R' 'parenleft' 'c' 'l' 'o' 'BackSpace' 'BackSpace' 'o' 'l' 'o' 'r' 's' 'Right
+' 'l' 'e' 'n' 'g' 't' 'h' 'Shift_R' 'parenleft' 'c' 'l' 'a' 'm' 'BackSpace' 'i' 'm' 's' 'Up' 'Down' 'Right
+' 'Shift_R' 'numbersign ' 'BackSpace' 'Shift_R' 'Shift_R' 'I' 'n' 'd' 'e' 'x ' 'o ' 'a' 'l' 'l' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'n ' 't' 'h' 'e ' 'f' 'i' 'r' 's' 't ' 'e' 'l' 'e' 'm' 'e' 't' 'n' 's' 'BackSpace' 'BackSpace' 'BackSpace' 'n' 't' 's ' 'i' 'n ' 'Shift_R' 'R ' 'i' 's' 'BackSpace' 'BackSpace' 'i' 's ' 'Shift_R' '1
+
+' 'n' 'BackSpace' 'r' 'e' 's ' 'Shift_R' 'less' 'minus ' 'n' '1' 'Shift_R ' 'plus ' 'n' '2
+' 'r' 'e' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'Left' 'Left' 'a' 's' 'backslash' 'd' 'BackSpace' 'BackSpace' 'BackSpace' 'd' 'd' 'Up' 'Down' 'Down' 'r' 'e' 'd' 'BackSpace' 's' 's' 'u' 'b ' 'Shift_R' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Left' 'Left' 'Left' 'Left' 'Left' 'bracketleft' '1' 'bracketright' 'Right' 'Right' 'Right' 'Right' 'Right' 'bracketleft' '1' 'bracketright' 'n' '1' 'bracketleft' '1' 'bracketright' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'r' 'e' 's' 's' 'u' 'b ' 'Shift_R' 'less' 'minus ' 'n' '1' 'bracketleft' '1' 'Right ' 'minus ' 'n' '2' 'bracketleft' '1' 'Right
+' 'r' 'e' 's' 'm' 'u' 'l' 't' 'Up' 'Left' 'Down' 'Up' 'Down' 'Right ' 'Shift_R' 'less' 'minus ' 'n' '1' 'bracketleft' '1' 'bracketright ' 'Shift_R' '' 'BackSpace' 'Shift_R' 'asterisk ' 'n' '2' 'bracketleft' '1' 'bracketright
+' 'r' 'e' 's' 'd' 'i' 'v ' 'Shift_R' 'less' 'minus ' 'm' '1' 'BackSpace' 'BackSpace' 'n' '1' 'bracketleft' '1' 'bracketright ' 'Shift_R' 'Shift_R' 'slash ' 'n' '2' 'bracketleft' '1' 'bracketright
+' 'r' 'e' 's' 'a' 'd' 'd' 'v ' 'Shift_R' 'less' 'minus ' 'n' '1 ' 'Shift_R' 'underscore' 'BackSpace' 'Shift_R' 'plus ' 'n' '2
+' 'r' 'e' 's' 's' 'u' 'b' 'v ' 'Shift_R' 'less' 'equal' 'BackSpace' 'minus ' 'n' '1 ' 'minus ' 'n' '2
+' 'r' 'e' 's' 'm' 'u' 'o' 'l' 'BackSpace' 'BackSpace' 'l' 't' 'v ' 'Shift_R' 'less' 'minus ' 'n' '1 ' 'Shift_R' 'asterisk ' 'n' '2
+' 'r' 'e' 's' 'd' 'i' 'v' 'v' 'Shift_R ' 'less' 'minus ' 'n' '1 ' 'slash ' 'n' '2
+
+' 'r' 'e' 's' 'c' 'o' 'm' 'p ' 'Shift_R' 'less' 'minus' 'Left' 'Left' 'Left' 'g' 'Right' 'Right' 'Right' 'n' '1' 'bracketleft' '1' 'bracketright ' 'Shift_R' 'greater ' 'n' '2 ' 'BackSpace' 'bracketleft' '1' 'bracketright
+' 'r' 'e' 's' 'c' 'o' 'm' 'p' 'l ' 'Shift_R' 'less' 'minus ' 'n' '1' 'bracketleft' '1' 'bracketright ' 'Shift_R' 'less ' 'n' '2' 'bracketleft' '1' 'bracketright
+' 'r' 'e' 's' 'c' 'o' 'm' 'p' 'e ' 'Shift_R' 'less' 'minus ' 'n' '1' 'bracketleft' '1' 'bracketright ' 'equal' 'equal ' 'n' '2' 'bracketleft' '1' 'bracketright
+
+' 'r' 'e' 's' 'c' 'o' 'm' 'p' 'g' 'v ' 'Shift_R' 'less' 'minus ' 'n' '1 ' 'Shift_R' 'greater ' 'n' '2
+' 'r' 'e' 's' 'c' 'o' 'm' 'p' 'g' 'BackSpace' 'l' 'v ' 'Shift_R' 'less' 'minus ' 'n' '1' 'Shift_R' 'less' 'BackSpace ' 'Shift_R' 'less ' 'n' '2
+' 'r' 'e' 's' 'c' 'o' 'm' 'p' 'e' 'BackSpace' 'l' 'BackSpace' 'e' 'v ' 'Shift_R' 'less' 'minus ' 'n' '1 ' 'equal' 'equal ' 'n' '2' 'Up' 'Up' 'Up' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down
+' 'BackSpace
+' 'r' 'e' 's' 'BackSpace' 'BackSpace' 'BackSpace' 'r' 'e' 's' 'c' 'o' 'm' 'p' 'g' 'v' 's ' 'Shift_R' 'less' 'equal' 'BackSpace' 'minus ' 'n' '1' 'bracketleft' '1' 'bracketright ' 'Shift_R' 'greater ' 'n' '2
+' 'r' 'e' 's' 'c' 'o' 'm' 'p' 'g' 'BackSpace' 'l' 'v' 's ' 'Shift_R' 'less' 'minus ' 'm' '1' 'BackSpace' 'BackSpace' 'n' '1' 'bracketleft' '1' 'bracketright ' 'Shift_R' 'less ' 'n' '2
+' 'r' 'e' 's' 'c' 'o' 'm' 'p' 'l' 'v' 'BackSpace' 'e' 'BackSpace' 'BackSpace' 'e' 'v' 's ' 'Shift_R' 'less' 'minus ' 'n' '1' 'bracketleft' '1' 'Right ' 'Shift_R' 'less' 'BackSpace' 'equal' 'equal ' 'n' '2
+
+' 'Up' 'Up' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right
+' 'BackSpace' 'a' 'l' 'l' 'Shift_R' 'parenleft' 'n' '1' 'Shift_R ' 'Shift_R' 'M ' 'n' '2' 'Shift_R' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Shift_R' 'M' 'BackSpace' 'Shift_R' 'less ' 'n' '2
+' 'a' 'l' 'l ' 'Shift_R' 'BackSpace' 'BackSpace' 'BackSpace' 'n' 'y' 'Shift_R' 'parenleft' 'n' '1' 'Shift_R ' 'less ' 'n' '2' 'Control_R' 'Control_R' 'Left' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'equal' 'equal' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Up' 'Right' 'Up' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'Right' 'Left' 'Left' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up
+' 'Shift_R' 'numbersign' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down
+
+' 'Shift_R' 'numbersign ' 'Shift_R' 'V' 'e' 'c' 't' 'o' 'r ' 'a' 't' 'BackSpace' 'r' 't' 'h' 'i' 'e' 'm' 'BackSpace' 'BackSpace' 'BackSpace' 'e' 'BackSpace' 'm' 'a' 't' 'i' 'c' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'i' 't' 'h' 'e' 'm' 't' 'i' 'c' 'Left' 'Down' 'Right' 'Up' 'Down' 'Right' 'Up' 'Right' 'Shift_R' 'T' 'h' 'e ' 'i' 'm' 'p' 'u' 't' 's ' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'n' 't' 'BackSpace' 'p' 'u' 't' 's ' 'w' 'i' 'l' 'l ' 'c' 'h' 'a' 'n' 'g' 'e ' 't' 'h' 'e' 'BackSpace' 'BackSpace' 'BackSpace' 'w' 'e' 't' 'h' 'e' 'r ' 'o' 'r ' 'n' 'o' 't ' 't' 'h' 'e ' 'r' 'e' 's' 'u' 'l' 't' 's ' 'w' 'BackSpace' 'w' 'i' 'l ' 'BackSpace' 'l ' 'b' 'e ' 'a ' 'v' 'e' 't' 'BackSpace' 'c' 't' 'o' 'r ' 's' 'BackSpace' 'o' 'r ' 'a' 's' 'BackSpace ' 's' 'i' 'n' 'l' 'e ' 'v' 'BackSpace' 'o' 'u' 't' 'p' 'u' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'g' 'l' 'e ' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'n' 'g' 'l' 'e ' 'o' 'u' 't' 'p' 'u' 't' 'period ' 'Shift_R' 'I' 'f ' 'a
+' 'Shift_R' 'numbersign ' 'a' 'BackSpace' 'v' 'a' 'l' 'u' 'e' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'n
+' 'Shift_R' 'numbersign ' 'Shift_R' 'BackSpace' 'Shift_R' 'o' 'BackSpace' 'Shift_R' 'O' 'p' 'e' 'BackSpace' 'BackSpace' 'p' 'e' 'r' 'a' 't' 'i' 'o' 'n ' 'w' 'o' 'u' 'l' 'd ' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'h' 'a' 's ' 'a' 't ' 'l' 'e' 'a' 's' 't ' 'o' 'n' 'e ' 'v' 'e' 'c' 't' 'r' 'o' 'BackSpace' 'BackSpace' 'o' 'r ' 'i' 'n ' 'i' 't ' 't' 'h' 'e ' 'r' 'e' 's' 'u' 'l' 't' 's  ' 'BackSpace' 'w' 'i' 'l' 'l ' 'b' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace ' 'w' 'i' 'l' 'l ' 'b' 'e ' 'a ' 'v' 'e' 'c' 't' 'o' 'r' 'period ' 'Shift_R' 'F' 'u' 'n' 'c' 't' 'i' 'o' 'n' 's ' 'o' 'f' 'BackSpace' 'BackSpace' 'a' 'r' 'e ' 'e' 'x' 'c' 'l' 'u' 't' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'a' 'n' 'd' 'BackSpace ' 'e' 'x' 'e' 'c' 'p' 't' 'i' 'o' 'n' 's' 'BackSpace
+
+
+' 'n' 'u' 'm' 'b' 'e' 'r' 's ' 'equal ' 'c' 'Shift_R' 'parenleft' 'n' '1' 'comma' 'n' '2' 'n' '3' 'BackSpace' 'BackSpace' 'comma' 'n' '3' 'c' 'l' 's' 'BackSpace' 'a' 's' 's' 'Shift_R' 'parenleft' 'n' 'u' 'm' 'b' 'e' 'r' 's
+' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Shift_R' 'Shift_R' 'numbersign' 'n' 'u' 'm' 'b' 'e' 'r' 's' 'BackSpace' 's ' 'i' 'n' 'BackSpace' 's ' 'a ' 'n' 'u' 'm' 'b' 'e' 'r' 'i' 'c' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'e' 'r' 'i' 'c ' 'c' 'l' 'a' 's' 's ' 'w' 'i' 't' 'h ' 'o' 'n' 'e ' 'd' 'i' 'm' 'e' 'n' 't' 'i' 'o' 'n' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 's' 'i' 'o' 'n
+
+' 'd' 'a' 't' 'a' 'period' 'f' 'r' 'a' 'm' 'e' 'Shift_R' 'parenleft' 'n' '1' 'n' 'BackSpace' 'comma' 'n' '2' 'period' 'n' '3' 'Left' 'Right' 'Left' 'Left' 'BackSpace' 'comma' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'n' 'u' 'm' 'b' 'e' 'r' 's' '2 ' 'equal ' 'c' 'l' 'a' 's' 's' 'Shift_R' 'parenleft' 'n' 'u' 'm' 'b' 'e' 'r' 's' '2' 'Shift_R' 'n' 'u' 'm' 'b' 'e' 'r' 's' '2
+
+' 'n' 'u' 'm' 'b' 'r' 's' 'BackSpace' 'BackSpace' 'e' 'r' 's
+' 'Shift_R' 'numbersign' 'n' 'u' 'm' 'b' 'r' 's' 'BackSpace' 'BackSpace' 'e' 'r' 's ' 'i' 's ' 'n' 'o' 't ' 'BackSpace' 'BackSpace' 'w ' 'a ' 'd' 'a' 't' 'a ' 'f' 'r' 'a' 'm' 'e ' 'l' 'c' 'a' 's' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'c' 'l' 'a' 's' 's ' 'w' 'i' 't' 'h ' 't' 'h' 'r' 'e' 'e ' 'd' 'i' 'm' 'e' 'n' 't' 'i' 'o' 'n' 's' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 's' 'i' 'n' 's' 'BackSpace' 'BackSpace' 'o' 'n' 's
+' 'Shift_R' 'numbersign ' 'n' '1' 'BackSpace' 'BackSpace' 'd' 'i' 'm ' 'n' '1' 'comma' 'n' '2' 'comma' 'n' '3
+
+' '4' 'BackSpace' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Down' 'Shift_R' 'numbersign' 'Shift_R' 'V' 'e' 'c' 't' 'o' 'r ' 'c' 'o' 'm' 'p' 'BackSpace' 'b' 'i' 'n' 'a' 't' 'i' 'o' 'n' 's' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Up' 'Down' 'Shift_R' 'numbersign' 'Shift_R' 'C' 'o' 'm' 'BackSpace' 'BackSpace' 'BackSpace' 'Shift_R' 'V' 'c' 't' 'o' 'r ' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'c' 'BackSpace' 'e' 'c' 't' 'o' 'r ' 'Shift_R' 'C' 'o' 'm' 'b' 'i' 'n' 'a' 't' 'i' 'o' 'n' 's ' 'c' 'o' 'n' 't' 'period' 'period' 'period
+
+' 'c' 'o' 'm' 'b' 'i' 'e' 'd ' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'i' 'n' 'e' 'd ' 'Shift_R' 'less' 'equal' 'BackSpace' 'minus ' 'n' 'BackSpace' 'Shift_R' 'parenleft' 'm' 'BackSpace' 'BackSpace' 'c' 'Shift_R' 'parenright' 'BackSpace' 'Shift_R' 'parenleft' 'n' '1' 'comma' 'c' 'o' 'l' 'o' 'r' 's' 'comma' 'c' 'l' 'a' 'i' 'm' 's' 'Right' 'c' 'o' 'm' 'b' 'i' 'n' 'e' 'd
+
+' 'BackSpace' 'BackSpace' 'Shift_R' 'numbersign ' 'BackSpace ' 'Shift_R' 'C' 'o' 'm' 'b' 'i' 'n' 'e' 'd ' 'w' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'i' 'n' 'e' 'd ' 'w' 'a' 's ' 'a' 'l' 'l ' 'c' 'o' 'n' 'v' 'e' 'r' 't' 'e' 'd ' 'i' 'n' 't' 'o ' 's' 't' 'r' 'i' 'n' 'g' 's ' 's' 'i' 'n' 'c' 'e ' 'v' 'e' 'c' 't' 'o' 'r' 's ' 'n' 'e' 'd' 'BackSpace' 'e' 'd ' 't' 'o ' 'h' 'a' 'v' 'e ' 't' 'h' 'e ' 'a' 'm' 'BackSpace' 'BackSpace' 's' 'a' 'e' 'm' 'BackSpace' 'BackSpace' 'm' 'e ' 't' 'i' 'equal' 'BackSpace' 'BackSpace' 'p' 'e' 'BackSpace' 'BackSpace' 'y' 'p' 'e
+
+' 'm' 'y' 'period' 'd' 'a' 't' 'a ' 'Shift_R' 'less' 'minus ' 'd' 'a' 't' 'a' 'f' 'r
+' 'n' '1' 'comma' 'c' 'o' 'l' 'o' 'r' 'comma' 'c' 'l' 'i' 'BackSpace' 'a' 'i' 'm' 's' 'Right' 'Down' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 's
+' 'm' 'y' 'd' 'BackSpace' 'period' 'd' 'a' 't' 'a' 'Down' 'Shift_R' 'numbersign ' 'Shift_R' 'M' 'i' 'd' 'd' 'l' 'e ' 'c' 'o' 'l' 'u' 'm' 'n ' 'i' 's ' 'c' 'o' 'l' 'o' 'r' 's ' 'w' 'i' 't' 'h ' 'a ' 's' 'BackSpace' 't' 'y' 'p' 'r ' 'BackSpace' 'BackSpace' 'e ' 'o' 'f ' 's' 't' 'r' 'i' 'n' 'g
+
+' 'n' 'a' 'm' 'e' 's' 'Shift_R' 'parenleft' 'parenright' 'Control_R' 'Left' 'm' 'y' 'period' 'd' 'a' 'a' 'BackSpace' 't' 'a
+
+
+' 'Shift_R' 'numbersign ' 'BackSpace' 'f' 'BackSpace' 'Shift_R' 'D' 'a' 't' 'a ' 'Shift_R' 'F' 'r' 'a' 'm' 'e' 's' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right
+' 'BackSpace' 'BackSpace
+' 'c' 'o' 'l' 'o' 'r' 's' 'period' 'v ' 'Shift_R' 'less' 'minus ' 'm' 'y' 'period' 'd' 'a' 't' 'a' 'bracketleft' 'comma' '2' 'bracketright
+' 'c' 'o' 'l' 'BackSpace' 'BackSpace' 'BackSpace' 'c' 'l' 'a' 's' 's' 'Shift_R' 'parenleft' 'c' 'o' 'l' 'o' 'r' 's' 'period' 'v
+
+' 'Control_L' 'v' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Right' '2' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'comma ' 's' 't' 'r' 'i' 'n' 'g' 's' 'Shift_R' 'A' 's
+' 'Shift_R' 'F' 'Right
+' 'Up
+' 'c' 'o' 'l' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'c' 'o' 'l' 'o' 'r' 's' 'period' 'v' '2 ' 'Shift_R' 'less' 'BackSpace' 'Shift_R' 'less' 'minus ' 'm' 'y' 'd' 'BackSpace' 'period' 'd' 'a' 't' 'a' '2' 'bracketleft' 'BackSpace' 'comma' '2' 'bracketleft' 'BackSpace' 'BackSpace' 'BackSpace' 'bracketleft' 'comma' '2' 'bracketright
+' 'p' 'BackSpace' 'c' 'l' 'a' 's' 's' 'Shift_R' 'parenleft' 'm' 'BackSpace' 'c' 'o' 'l' 'o' 'r' 's' 'period' 'v' '2' 'Left' 'Left' 'Up' 'Left' 'Left' 'Left' 'Left' 'd' 'o' 'l' 'o' 'r' 's' 'period' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' '[269025201]' '[269025067]' '[269025067]
+' 'Shift_R' 'J' 'u' 'n' 'e' '1' '5' '2' '0' '1' '4
+' 'y' 'o' 'u
+' '[269025043]' 'f' 'a
+' 'r' 'f' 'a' 'e' 'a' 's' 'f' 'e' 'w' 'g' 'a' 'r' 'h' 't' 'y' 'u' 'k' 'f
+' 's' 'h' 'o' 'w ' 'm' 'e ' 'b' 'o' 'BackSpace' 'e' 'b' 'BackSpace' 'w' 'b' 's' 's' 's' 's' 's' 's' 's
+' 'o' 'o' 'd
+' 'g' 'o' 'o' 'o' 'd' 'Shift_R
+' 'Left' 'i ' 'm' 'i' 'g' 't' 'BackSpace' 'h' 't ' 'g' 'e' 't ' 'a ' 'g' 'j' 'BackSpace' 'BackSpace' 'j' 'o' 'b
+' '[269025043]' '[269025043]' '[269025043]' 's' 'o' 'm' 'e' 'w' 'h' 'e' 'r' 'e
+' 'f' 'o' 'Shift_R' 'question
+' 'Shift_L' 'r' 'l' 'a' 'b' '1' 'Shift_L' 'H' 'i ' 'l' 'i' 'l' 'j' 'a ' 'Shift_L' 'I ' 's' 'p' 'o' 'k' 'e ' 't' 'o ' 'Shift_L' 'J' 'a' 'k' 'e ' 't' 'o' 'd' 'a' 'y ' 'a' 'd' 'BackSpace' 'n' 'd ' 'h' 'e ' 's' 'u' 'g' 'g' 'e' 's' 't' 'e' 'd  ' 's' 't' 'BackSpace' 'BackSpace' 'Shift_R' 'I ' 's' 'o' 'BackSpace' 't' 'o' 'p ' 'b' 'y ' 't' 'h' 'e ' 'o' 'f' 'f' 'i' 'c' 'e ' 't' 'o' 'o' 'BackSpace' 'm' 'm' 'o' 'r' 'o' 'w ' 't' 'o ' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'period
+
+' 'Shift_R' 'I' 'S ' 't' 'h' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Left' 'Up' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right
+' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'BackSpace' 'Shift_R' 'L' 'Down' 'Down' 'Down' 's' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Shift_R' 'W' 'h' 'a' 't ' 't' 'i' 'm' 'e ' 'w' 'o' 'u' 'l' 'd ' 'b' 'e ' 't' 'h' 'e ' 'b' 'e' 'BackSpace' 'b' 'BackSpace' 'e' 's' 't ' 'c' 'o' 'BackSpace' 'BackSpace' 't' 'o ' 'c' 'o' 'm' 'e ' 'i' 'n ' 'a' 'n' 'd ' 'w' 'h' 'a' 'BackSpace' 'a' 't ' 's' 'i' 'BackSpace' 'BackSpace' 'i' 's ' 't' 'h' 'e ' 'a' 'd' 's' 'd' 'r' 'BackSpace' 'BackSpace' 'BackSpace' 'd' 'r' 'e' 's' 's' 'Shift_R' 'question
+
+' 'minus' 'Shift_R' 'T' 'i' 'm' 'o' 'h' 't' 'BackSpace' 'BackSpace' 't' 'h' 'y ' 'y' 'u' 'n' 'g' 'Shift_R' 'R' 'I' 'P ' 'A' 'Num_Lock' 'BackSpace' 'BackSpace
+' 's' 'u' 'n' 'BackSpace' 'BackSpace' 'BackSpace' 's' 'a' 't' 'BackSpace' 'BackSpace' 'u' 'n' 'd' 'a' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 's' 'a' 't' 'u' 'r' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'l' 'a' 's' 't ' 'w' 'e' 'e' 'Down
+' '[269025041]' '[269025041]' '[269025041]' 'w' 'h' 'a' 'BackSpace' 'y ' 'd' 'o ' 'y' 'o' 'u ' 'n' 'e' 'e' 'd ' 'i' 't
+' 'h' 'i' 'g' 'h ' 's' 'c' 'h' 'o' 'o' 'l' 'Shift_R' 'question
+' 'a' 'BackSpace' 'd' 'i' 'd ' 'a' 'm' 'y ' 's' 'y ' 's' 'o' 'm' 'e' 't' 'h' 'i' 'n' 'g
+' 'w' 'h' 'a' 't' 'Shift_R' 'question
+' 'i' 's' 'n' 't ' 'a' 'BackSpace' 'c' 'a' 't ' 'f' 'i' 's' 'h ' 'f' 'o' 'r ' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'w' 'h' 'e ' 'n' 'd' 'u' 'd' 'e ' 'p' 'r' 'e' 't' 'e' 'n' 'd' 's ' 't' 'o ' 'b' 'e ' 'f' 'i' 'BackSpace' 'BackSpace' 'g' 'u' 'r' 'BackSpace' 'i' 'BackSpace' 'BackSpace' 'i' 'r' 'semicolon' 'l
+' 'Shift_R' 'S' 'BackSpace' 'Shift_R' 'U' 'B' 's' 'BackSpace' 'BackSpace' 'BackSpace' 'Shift_R' 'b' 'u' 's' 's' 's' 's' 's' 'y
+' 'Shift_R' 'W' 'h' 'a' 't ' 'a' 'b' 'o' 'u' 't ' 'y' 'o' 'u
+' 'h' 'o' 'w ' 'a' 'BackSpace' 'BackSpace' 'a' 'r' 'e ' 'y' 'o' 'u' 'Shift_R' 'question
+' 'Escape
+' 'd' 'o' 'BackSpace' 'BackSpace' 'c' 'o' 'l' 'o' 'r' 's' 'period' 'c' 'BackSpace' 'd' 'f' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'c' 'o' 'l' 'o' 'r' 's' 'period' 'd' 'f ' 'equal' 'BackSpace' 'Shift_R' 'less' 'minus ' 'm' 'y' 'd' 'a' 't' 'a' 'bracketleft' 'Shift_R' 'quotedbl' 'c' 'o' 'l' 'o' 'r' 's' 'apostrophe' 'BackSpace' 'Right' 'Right
+' 'Up' 'Left' 'period' 'c' 'o' 'l' 'o' 'r' 's' '3 ' 'Shift_R' 'less' 'minus ' 'm' 'y' 'period' 'd' 'a' 't' 'a' 'Shift_R' 'dollar' 'c' 'Down
+' 'Down
+
+' 'Shift_R' 'numbersign' 'c' 'BackSpace' 'Shift_R' 'S' 'BackSpace' 'Shift_R' 'D' 'a' 't' 'e ' 'Shift_R' 'V' 'e' 'c' 't' 'o' 'r' 's
+
+' 'BackSpace
+' 'd ' 'Shift_R' 'less' 'minus ' 'c' 'Shift_R' 'parenleft' 't' 'h' 'i' 'BackSpace' 'BackSpace' 'BackSpace' 'Shift_R' 'S' 'y' 's' 'Down
+' 'Right' 'comma ' 'apostrophe' 'Shift_R' 'M' 'a' 'y ' '2' '0' 't' 'h' 'm' 'BackSpace' 'comma ' 'P_Down' 'P_Insert' 'BackSpace' 'Down' 'Down' 'Left' 'Left' 'Left ' '2' '0' '1' '6' 'apostrophe' 'Shift_R' 'parenright
+' 'Up' 'Up' 'Down' 'Num_Lock' 'Num_Lock' 'P_Insert' 'Num_Lock' 'd' 'c' 'a' 'BackSpace' 'BackSpace' 'g' 'i' 'r' 's' 'l ' 'd' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'period' 's ' 'd' 'o' 'e' 'n' 't ' 'c' 'a' 't' 'f' 'i' 's' 'h ' 't' 'h' 'o' 'h' 'BackSpace' 'u' 'g' 'h
+' 'f' 'i' 'r' 'e' 'd ' 'i' 's ' 'b' 'o' 'y ' 'o' 'r ' 'g' 'i' 'r' 'l
+' 's' 'o' 'BackSpace' 'BackSpace' 'BackSpace' 'i' 's ' 'f' 'r' 'i' 'e' 'n' 'd ' 'g' 'i' 'r' 'l ' 'o' 'r ' 'b' 'o' 'i
+' 'w' 'h' 'y ' 'd' 'o' 'n' 't ' 'y' 'o' 'u ' 'i' 'n' 't' 'r' 'o' 'd' 'u' 'c' 'e ' 'a' 'm' 'y ' 't' 'o ' 'd' 'o' 'n' 't ' 's' 't' 'a' 'r' 'v' 'e
+' 'i' 't ' 'w' 'a' 's ' 'o' 'n ' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 's ' 'o' 'n ' 's' 'a' 'l' 'e
+' 'Shift_R' 'L' 'O
+' 'w' 'h' 'a' 't ' 'a' 'BackSpace' 'h' 'a' 'p' 'p' 'n' 'n' 'e' 'BackSpace' 'BackSpace' 'BackSpace' 'e' 'n' 'e' 'd ' 't' 'o ' 's' 'w' 'i' 't' 'h' 'c
+' 'y' 'o' 'u ' 'g' 'u' 's ' 'c' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'u' 'y' 's ' 'c' 'a' 'n ' 'd' 'o ' 's' 'a' 'BackSpace' 't' 'a' 'r' 'f' 'd' 'BackSpace' 'BackSpace' 'd' 'e' 'w ' 'a' 'l' 'BackSpace' 'BackSpace' 'v' 'a' 'l' 'l' 'e' 'y ' 't' 'o' 'o' 'o
+' 'i ' 'r' 'e' 'm' 'e' 'm' 'b' 'e' 'r ' 's' 'h' 'e ' 'h' 'a' 'd ' 't' 'h' 'a' 't
+' 'c' 'o' 'm' 'p' 'u' 'e' 'r' 'BackSpace' 'BackSpace' 't' 'e' 'r
+' 'i' 'm ' 'p' 'r' 'e' 't' 't' 'y ' 'h' 'BackSpace' 's' 'u' 'r' 'e ' 's' 'h' 'e ' 'h' 'a' 's ' 's' 't' 'a' 'r' 'd' 'e' 'w ' 'v' 'a' 'l' 'l' 'e
+' 'o' 'u ' 'c' 'a' 'n' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'y' 'o' 'u ' 's' 'h' 'o' 'u' 'o' 'd' 'BackSpace' 'BackSpace' 'u' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'y' 'e' 'a' 'h ' 'b' 'u' 't ' 's' 'h' 'e ' 'g' 'o ' 'i' 'n' 'BackSpace' 'BackSpace' 'BackSpace' 't ' 'i' 't ' 'o' 'n ' 'c' 'o' 'm' 'p
+' 'i' 'm ' 'p' 'r' 'e' 't' 't' 'y ' 's' 'h' 'e' 'BackSpace' 'u' 'r' 'BackSpace' 'BackSpace' 'BackSpace' 'u' 'r' 'e
+' 'i ' 'd' 'o' 'n' 't ' 'BackSpace ' 'k' 'n' 'o' 'w
+' 'y' 'o' 'u ' 's' 'o' 'u' 'l' 'd ' 'a' 's' 'k
+' 'n' 'o
+' 'Shift_R' 'W' 'h' 'y ' 'd' 'o' 'n' 't ' 'y' 'o' 'u ' 'a' 's' 'k
+' 'j' 'u' 's' 't ' 'a' 's' 'k
+' 'Control_L' 'v
+' 'Shift_R' 'O' 'k
+' 'Shift_R' 'L' 'o' 'l
+' 's' 'o ' 'r' 'u' 'equal' 'o' 'o' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'o' 'o' 'd
+' 'r' 'o' 'o' 'o' 'o' 'o' 'd
+' 'r' 'u' 'd' 'e
+' 'a' 'BackSpace' 'a' 'r' 'e ' 'y' 'o' 'u ' 's' 'l' 'o' 'w
+' 'Shift_R' 'W' 'h' 'y
+' 'Shift_R' 'Shift_R' 'parenleft' 'P_Left' 'BackSpace' 'BackSpace' 'Shift_R' 'colon' 'parenleft
+' 'm' 'r' 'BackSpace' 'a' 'r' 'v' 'e' 'l ' 't' 'v 
+' 'd' 'o' 'n' 't ' 'b' 'e ' 'm' 'a' 'd ' 'a' 't ' 'm' 'e
+' 'y' 'o' 'u
+' 'd' 'e' 'f' 'e' 's' 'BackSpace' 'Down' 'Down
+' '[269025201]' '[269025067]' '[269025067]
+' 'Shift_R' 'J' 'u' 'n' 'e' '1' '5' '2' '0' '1' '4
+' 'c' 'a' 'l' 'BackSpace' 'BackSpace' 'l' 'a' 's' 's' 'Shift_R' 'parenleft' 'c' 'o' 'l' 'o' 'r' 's' '3' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Up' 'Up' 'Down' 'Up' 'Right' 'Up' 'Down' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'r ' 'l' 'a' 'b ' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'r ' 'd' 'a' 't' 'e
+' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'Left' 'Left' 'Left' 'Shift_R' 'D' 'a' 't' 'e' 'Shift_R' 'parenleft' 'parenright' 'Left' 'P_Down' 'P_Insert' 'P_End' 'P_Page_Up' 'BackSpace' 'P_Right' 'minus' '0' '5' 'minus' '2' '0' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'apostrophe' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'apostrophe' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'a' 's' 'period' 'Up' 'Up' 'Down' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Control_L' 'z' 'z' 'z' 'z' 'z' 'z' 'z' 'z' 'z' 'z' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Right' 'Left' 'BackSpace' 'BackSpace' 'BackSpace' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'Left ' 'Down' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'Left ' 'Left ' 'Left' 'Right' 'BackSpace' 'Left ' 'BackSpace' 'Up ' 'Up' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'Up' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'Up' 'Up' 'Up' 'Left' 'Left' 'BackSpace ' 'Left' 'BackSpace' 'BackSpace' 'BackSpace' 'P_Down' 'P_Insert' 'P_Right' 'BackSpace' 'P_End' 'P_Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'minus' '0' '5' 'minus' '2' '0' 'Right' 'Right' 'Right' 'Right' 'Right' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Control_L' 'z' 'z' 'z' 'z' 'z' 'z' 'z' 'z' 'z' 'z' 'z
+' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 't' 'BackSpace' 's' 'y' 's' 'period' 'BackSpace' 'period' 'd' 'a' 't' 'a ' 'n' 'BackSpace' 'a' 'n' 'd ' 'o' 't' 'h' 'e' 'r ' 'd' 'a' 't' 'e
+' 'Down' 'Down' 'a' 's' 'period' 'Shift_R' 'D' 'a' 't' 'e' 'Shift_R' 'parenleft' 'apostrophe' 'P_Down' 'P_Insert' 'P_End' 'P_Right' 'minus' 'P_Insert' 'P_Begin' 'minus' 'P_Insert' 'BackSpace' 'P_Down' 'P_Insert' 'BackSpace' 'BackSpace' 'BackSpace' 'Control_L' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Control_L' 'v' 'Control_L' 'z' 'Control_L' 'z' 'Control_L' 'z' 'z' 'Control_L' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Control_L' 'v' 'Down' 'Left' 'Up' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Down' 'Down' 'Right' 'Right' 'Right' 'Right' 'Right ' 'Shift_R' 'plus ' 'Control_L' 'Control_L' 'v' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'd' 'BackSpace' 'c' 'BackSpace' 'd' 'bracketleft' '1' 'bracketright ' 'minus ' 'd' 'bracketleft' '2' 'bracketright' 'Up' 'Up' 'Right' 'Down' 'Right' 'Up' 'Right' 'Right' 'Right' 'BackSpace' '2' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'Left' 'BackSpace' '1
+' 'd' 'bracketleft' '1' 'bracketright ' 'equal ' 'BackSpace' 'BackSpace' 'minus ' 'd' 'bracketleft' '2' 'bracketright
+
+
+
+' 'Shift_R' 'numbersign ' 'Shift_R' 'BackSpace' 'Shift_R' 'H' 'i' 's' 't' 'o' 'g' 'r' 'a' 'm' 's
+
+' 'h' 'i' 's' 't' 'Shift_R' 'parenleft' 'n' 'u' 'm' 'b' 'e' 'r' 's' 'Down
+' 'bracketleft' 'Shift_R' 'quotedbl' 'n' '1' 'Right' 'Right' 'Right
+' 'h' 'i' 's' 't' 'Shift_R' 'parenleft' 'n' 'u' 'm' 'b' 'e' 'r' 's' 'Down
+' 'bracketleft' 'comma' '1' 'bracketright' 'comma ' 'b' 'r' 'e' 'a' 'k' 's ' 'equal ' '1' 'minus' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'Right
+
+' 'h' 'i' 's' 't' 'Shift_R' 'parenleft' 'n' 'u' 'm' 'b' 'e' 'r' 's' '2' 'bracketleft' 'comma' '1' 'Right' 'comma ' 'b' 'r' 'e' 'a' 'k' 's ' 'equal ' '1' '0
+
+' 'Shift_R' 'numbersign ' 'BackSpace' 'p' 'l' 'o' 't
+
+' 'p' 'l' 'o' 't' 'Shift_R' 'parenleft' 'n' 'u' 'm' 'b' 'e' 'r' 's' 'p' 'l' 'o' 't' 'Shift_R' 'parenleft' 'm' 'y' 'period' 'd' 'a' 't' 'a' 'b' 'BackSpace' 'p' 'l' 'o' 't' 'Shift_R' 'parenleft' 'm' 'y' 'period' 'd' 'a' 't' 'a' '2' 'i' 'n' 's' 't' 'a' 'l' 'l' 'period' 'p' 'a' 'c
+
+' 'Up' 'Left' 'g' 'g' 'p' 'l' 'o' 't' '2
+
+
+' 'Up' 'Up' 'Up' 'Down
+
+' 'Down' 'Down' 'Right' 'Right
+
+' 'Shift_R' 'P_Insert' 'i' 'n' 's' 't' 'a' 'l' 'l
+' 'p' 'k' 'g' 's' 'BackSpace' 'BackSpace' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'BackSpace' 'BackSpace' 'g' 'BackSpace' 'p' 'k' 'g' 's
+' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'r ' 'i' 'n' 's' 't' 'a' 'l' 'l ' 'p' 'a
+' 'Left' 'Shift_R' 'quotedbl' 'g' 'g' 'p' 'l' 'o' 't' '2' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Up' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'BackSpace' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Right' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Left' 'Shift_R' 'parenright' 'BackSpace' 'Control_R' 'Left' 'Left' 'Left' 'Left' 'Right' 'Right' 'Right' 'Right' 'Shift_R' 'parenright' 'Right' 'Right' 'Up' 'Up' 'Down' 'Down' 'Right' 'Left' 'Left' 'Right' 'Right' 'Right' 'Up' 't ' 'equal ' 'a' 's' 'period' 'Shift_R' 'D' 'a' 't' 'e ' 'BackSpace' 'Shift_R' 'parenleft' 'Control_L' 'x' 'Control_L' 'v' 't' 'Control_L' 'Alt_L' 't' 'l' 's
+' 'c' 'd ' 'Shift_R' 'D' 'o' 'c' 'Tab
+' 'c' 'd ' 'period' 'period
+' 'l' 's
+' 'c' 'd ' 'Shift_R' 'D' 'e' 's' 'Tab
+' 'l' 's
+' 'v' 'i' 'm ' 'f' 'i' 'Tab
+' 'o' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Down' 'Control_L' 'Alt_L' 't' 'c' 'd ' 'd' 'e' 'Tab' 'BackSpace' 'BackSpace' 'Shift_R' 'D' 'Tab' 'BackSpace' 'e' 's' 'Tab' 'BackSpace' 'BackSpace' 'Shift_R' 'D' 'e' 's' 'Tab
+' 'l' 's
+' 'v' 'i' 'm ' 'f' 'i' 'l' 'Tab
+' 'Control_L' 'c' 'Escape' 'Shift_R' 'colon' 'q
+____' 'h' 'e' 'l' 'l' 'o_' 'h' 'e' 'l' 'l' 'o_' 'h' 'e' 'l' 'l' 'o' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'BackSpace' 'v' 'i' 'm_' 'f' 'i' 'l' 'e' 'period' 'l' 'o' 'g
+' 'Control_L' 'c' 'Shift_R' 'colon' 'q
+' 'l' 'BackSpace' 'semicolon' 'BackSpace' 'Control_L' 'cEscapeShift_Rcolonq
+hello_hello_hellooBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceBackSpaceShift_Rthis_is_mr_ke_lBackSpaceBackSpacey_loarBackSpaceBackSpaceger
+
+vim_fileperiodlog
+Control_LEscapeShift_Rcolonq
+what_are_you_dong_
+back
+back
+back
+backoing_so
+backir_man_an
+vim_lo
+back
+backfileperiodlog
+EscapeShift_Rcolonq
+Control_LControl_Lcls
+vim_file
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	v
+back	
+back	this_is_my_key_logger
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	vim_if
+back	
+back	fileperiodlog
+Control_Lfac
+Shift_RI_made_a_key_logger
+EscapeShift_Rcolonq
+Up
+ar
+back	veag
+back	
+back	
+back	
+back	
+back	verage_commute_distance
+wanna_use_it
+i_give_you_o
+back	the_coe
+back	de
+youc
+back	_can_
+back	_ing
+back	ject_it_i
+back	into_your_emei
+back	
+back	
+back	nemies_computers
+can_d
+back	you_put_i_
+back	t_on_graces_comup
+back	
+back	puter_for_me
+graveEscapeShift_Rcolonq
+UpUpDown
+lol_no
+i_wanna_read_conversatiosn
+Shift_RD
+Shift_RJk
+sd
+back	
+back	f
+back	
+back	out
+back	
+back	
+back	
+back	automaticall
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	pth
+back	
+back	
+back	run_python_script_on_start
+Shift_RLol
+phone_keylo
+he_said_that_last_time_Shift_RLOL
+but_im_in_school_all_day_Shift_RThuursday
+Shift_RRip
+Control_LShift_RW
+back	Shift_RDoe
+back	
+back	
+back	Shift_RA
+back	Shift_RCan_y
+back	he_only_do_Shift_RFrie
+back	da
+back	
+back	
+back	
+back	
+back	Shift_RThursdayShift_Rquestion_
+		EscapeShift_Rcolonq
+		UpUpDown
+		Control_LShift_RI_have_made_a_keylogger
+    	put_it_on_your_amazi
+back	on_wokr_co
+back	
+back	
+back	
+back	
+back	rok_c
+back	
+back	
+back	
+back	k_computer
+    	EscapeShift_Rcolonq
+    	UpUpDown
+    	Shift_RGoa
+back	
+back	onna_send_the_keylogger_output_to_an_Shift_RAMShift_RZAC
+back	equal
+back	
+back	Shift_R
+back	Shift_RAZON_ECat
+back	2_Shift_RINSTANCE
+    	Shift_RCs
+    	Shift_RNope
+    	Shift_RSan_Shift_RFranscico
+    	Shift_RDepends_on_if_i_go
+back	et_my
+back	
+back	a_g
+back	job_tommorow_or_not_Shift_RD
+    	it_would_b
+back	probaly_weekends_or_eveings_moncommawedcommafir
+back	
+back	ri
+    	i_
+back	_
+back	
+back	
+back	[269025201][269025067][269025067]
+    	cShift_R
+back	Shift_RJune152014
+    	ls
+    	ssh_rootShift_RatP_EndP_InsertP_DeleteP_LeftP_DownP_DeleteP_InsertP_DeleteP_DownP_LeftP_Next
+    	toor
+    	ls
+    	cd_Shift_RDocTab
+    	ls
+    	cd_Shift_RWoTab
+    	ls
+    	python
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	python2_r
+back	
+back	
+back	
+back	n_rsTab
+    	UpLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeft2
+    	P_BeginP_InsertP_InsertP_End
+    	vim_rclTab
+    	EscapeShift_Rcolonq
+    	UpUpDownDownpython2_rclTab
+    	Control_LControl_LcControl_LcControl_LcUpUp
+    	ifconfi
+    	ifconfig
+    	sudo_apt_install_netminustools
+    	Shift_RJune152014
+    	ifconfig
+    	UpUpUpUpUpUpUpUpRightUpi
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	P_EndP_InsertP_DeleteP_EndP_DeleteP_BeginP_InsertP_DeleteP_DownP_DownP_NextEscapeShift_Rcolonwq
+    	UpUpUpUpUp
+    	P_BeginP_InsertP_InsertP_End
+    	UpUp
+    	shell_ls
+    	shell_ls_Shift_RslashShift_RDocuments
+    	shll_slashShift_RDocut
+back	ments_ls
+    	shell_slashShift_RDocumetn
+back	
+back	nts_ls
+    	l
+back	ls_Shift_RslashShift_RDocuments
+    	UpLeftLeftLeftLeftLeftLeftLeftLeftLeft
+back	
+    	UpLeftRight
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	slashd
+back	Shift_RDocue
+back	ments_ls
+    	ls_Shift_RasciitildeslashShift_RDocuments
+    	ls_Shift_RasciitildeslashShift_RDoocument
+back	
+back	
+back	
+back	
+back	
+back	
+back	cuments
+    	shell_ls_Shift_RasciitildeslashShift_RDocuments
+    	cat_mormy.py
+    	shell_cat_mormy.py
+    	she
+back	
+back	
+back	ssh_
+back	
+back	
+back	
+back	Shift_Rasciitildessh
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	Shift_Rexclamssh
+    	Control_L
+    	
+    	
+    	ssh_rootShift_RatP_EndP_InsertP_DeleteP_LeftP_DownP_DeleteP_InsertP_DeleteP_DownP_LeftP_Next
+    	toor
+    	ls
+    	cd_Shift_RDocTab
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	ls
+    	cd_slash
+    	ls
+    	cd
+    	s
+back	ls
+    	Shift_RDocTab
+    	
+back	
+back	cdShift_RDo
+back	
+back	_Shift_RDocTab
+    	ls
+    	vim_embarss
+back	
+back	assing.txt
+    	ithis_is_so_embarassing
+    	
+    	EscapeShift_Rcolonwq
+    	sheel
+back	
+back	
+back	ell_Shift_Rls_Shift_RasciitildeShift_RD
+back	slashShift_RDocuments
+    	cat_Shift_RasciitildeslashShift_RDocuments_embarassing.txt
+    	UpLeft
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	cat_Shift_RasciitildeslashShift_RDocumentsslashembarassing.txt
+    	cd_..
+    	
+    	cd
+back	
+back	c
+back	ls
+    	cat_Shift_Rasciitilde.
+back	slashShift_RDocue
+back	mentsslashemTab
+    	cat_Shift_Rasciitilde.
+back	Left
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	shell_cat_Shift_RasciitildeslashShift_RDocume_t
+back	
+back	nts_
+back	slashembarassing.txt
+    	Control_LControl_LcControl_LcUp
+    	P_BeginP_InsertP_InsertP_End
+    	Up
+    	shell_ls
+    	shell_Shift_Rasciitilde.
+back	slashShift_RDocuments_ls
+    	Up
+back	
+back	
+back	
+back	shell_ls_Shift_RasciitildeslashShift_RDocuments
+    	s
+back	cat_Shift_RRe
+back	Shift_README.md
+    	shell_cat_Shift_RREADME.md
+    	shell_ls_slashShift_Rasciitildeslash
+back	
+back	
+back	Shift_Rasciitildeslash
+    	
+    	shell_Shift_RDocue
+back	m
+back	
+back	
+back	
+back	
+back	ls_Shift_RasciitildeslashShift_RDocuments
+    	ca
+back	
+back	shell_cat_Shift_RasciitildeslashShift_Rembarassing.txtLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeft
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+    	Up
+back	
+back	
+back	
+back	shell_cat_Shift_RasciitildeslashShift_RDocumentsslashembarassing.txt
+    	g
+back	
+back	slidd
+back	Down
+    	goo
+    	slides
+    	presntaiton_d
+back	soon
+    	dont_tes
+back	xt_me
+    	my
+    	EscapeEscape[269025201][269025067][269025067]
+    	Shift_RJune152014
+    	happy_valentines_day
+    	Shift_Rless3
+    	change_python_script_to_
+    	
+back	Delete
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	paca
+back	kage_exeDown
+    	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	DownRightRightRightRightRightRightRightRightRightRight
+back	
+back	
+back	
+back	Right
+back	LeftLeftcommaapostropheShift_RMay_20m
+back	_m
+back	comma2016UpdLeftthUpUpUpRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightLeftRight
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	
+back	apostropheLeft5
+back	2016minus05minus20UpUpUpUpRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRight
+back	RightRightRightRightRightRightRightRightRightRightRight
+back	UpUpUpUpUpUpRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightRightLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftLeftShift_RDateShift_RparenleftRightRightRightRightRightRightRightRightRightRightShift_RparenrightShift_Rparenrightt
+back	st
+back	
+back	
+back	r_store_multil
+back	ple_dates
+    	Right
+back	RightRightRight
+back	LeftLeftLeftLeftLeftLeftLeftRight
+back	
+back	
+back	
+back	
+back	RightRightRightRightRightRightRightRightRight
+back	r_vecttor_with_current_ad
+back	
+back	date_and_other_d
+back	a
+back	dattes
+    	LeftLeftLeftLeftLeftLeftLeftLeftShift_RquotedblRightRightRightRightRightRightRightRightRightRightRightRightRightLeftLeftLeftLeftLeftShift_RquotedblLeftLeftLeftLeftLeftLeftLeft
+back	
+back	RightRightminus_
+back	RightRightRightLeftminus
+back	RightRightRightRightRightRightRightRightRight
+back	
+back	P_InsertRightLeftLeft
+back	
+back	
+back	RightRightRightRightRightminus16LeftLeftP_DownP_InsertLeftLeftLeftLeftLeftLeftLeftLeftLeftLeft_RightRightRightLeft
+back	
+back	RightRightLeft
+back	RightRightminus01
+back	5as.Shift_RDateShift_RparenleftRightRightRightRightRightRightRightRightRightRightShift_RparenrightLeftRightShift_RparenrightLeftLeftLeftLeftLeftLeftLeftLeftRightRight
+back	
+back	
+back	
+back	
+back	
+back	RightRightRightRightminus05minus20LeftLeftLeftLeftLeftLeftLeftLeftLeftLeftShift_RquotedblRightRightRightRightRightRightRightRightRightRightShift_Rquotedblyelp
+    	Shift_REscapeg
+back	
+back	azma
+back	
+back	
+back	mazon_ec
+back	2
+    	tyungShift_Ratdons.usfca.eduTabShift_RJune152014TabShift_RJune152014TabShift_RScottP_LeftP_InsertP_UpP_BeginP_DownP_InsertP_UpP_BeginP_UpP_HomeP_Page_Up
+back	P_NextP_EndP_Page_UpP_Page_Up_corbal_courtTabTabShift_RSan_Shift_RJoseTabShift_RCATabP_Page_UpP_BeginP_EndP_LeftP_UpP_BeginP_BeginP_DownP_LeftP_NextP_NextP_InsertP_InsertP_RightP_RightP_HomeP_BeginP_DownP_RightP_InsertP_UpShift_RTimoh
+back	thy_yungP_LeftP_InsertP_UpP_BeginP_DownP_InsertP_UpP_BeginP_UpP_Homee3b333y
+back	
+back	ytyungShift_Ratdons.usfca.edu
+    	Shift_RJune152014
+    	Shift_Reyloggerfa
+    	want_to_meet_brina
+    	distributive_bio
+    	Shift_RBRIAN
+    	school_frined
+    	hes_super_coolio
+    	fi
+back	i
+back	nessDownDownDownDown
+    	daadLeftRightswShift_Rda
+    	_Right_ddaRightLeftdwdwawddwaawShift_LaaaRightawaRightwShift_RawShift_RdRightawRightwddwdLeftwRightShift_LLeftdddwdLeftwdwddwdLeftwddRightdwdddRightdawdRightwaRightwaLeftsRightRightwaaCaps_LockCaps_LockShift_RaRightRightaRightdsssRightwaRightRightwawwaRightawaRightwdwRightawLeftaLeftawRightRightdwdRightwLeftddwdLeftwaRightwaRightwdwdLeftwdRightEscapeaDown
+    	Right_RightdwLeftawdwShift_LRightRightawdwRightaRightawShift_LdRightddwdRightsasRightwaawShift_LdLeftwRightwShift_LawRightddwaRightadwRightadwaLeftwRightaawaRightLeftaRightwaLeftwRightdLeftRightwRightdwShift_LdLeftddwdLeftddwdaLeftwLeftwLeftawShift_LdwRightaaRightShift_LLeftwaRightaawaRightwawShift_LadRightwRightwLeftawawdLeftsRightRightwdwdLeftwdRightwdRightwdRightddwRightdddwdRightLeftLeftwdLeftwaRightsddwaShift_LLeftdaShift_LawRightaShift_LaRightRightRightaRightasLeftwRightaRightawdRightwdwdLeftawdLeftawdLeftawdRightRightRightwdLeftwddwdLeftwaRightRightwddShift_LdddwdawRightawShift_LRightdwShift_LShift_LawdddwdwLeftRightdLeftwRightdwRightwdRightaRightRightRightRightawRightwaRightawShift_LdaLeftRightRightaawaaRightwShift_LddRightwShift_LLeftdddwdLeftdRightRightwdRightwaRightRightRightsLeftwaShift_LawaaLeftwLeftawRightShift_LRightdwaRightwShift_LRightddwasdwaRightddwRightawLeftwawShift_LawShift_LaRightwaShift_LaaawadwRightdwShift_LaRightRightwdLeftdwLeftdawdRightawdLeftwLeftdddwdLeftawdLeftawdRightLeftLeftwdLeftwShift_LaRightwShift_LawawShift_LawRightddddwRightdawdLeftwRightdwRightaawaRightwdLeftwRightwaRightawaRightwdRightasRightwdwaRightaaaShift_LawShift_LwdLeftdLeftawdLeftLeftawdLeftwaRightwddwdLeftawdLeftawdRightLeftLeftwdLeftwdaRightRightRightRightwawdShift_LRightwRightaadwgraveEscapeawdwShift_LdwwLeftdwRightdwwShift_LdLeftwdRightShift_LgraveTabShift_LEscapeTabgraveaawawLeftddwRightdwShift_LdwShift_LdwShift_LdRightwwdLeftdwLeftddwdRightLeftaLeftdwdLeftwLeftLeftddShift_LdLeftwwwRightawShift_LLeftawdwShift_LRightwawRightaRightLeftLeftLeftwLeftawShift_LLeftaawRightddddwdP_InsertRightwRightawdLeftawdLeftwRightdShift_LdwRightLeftwaaRightwRightdaddawaLeftwLeftddwLeftddwLeftwdLeftdwdwdRightwRightdwaRightsLeftLeftLeftwdRightShift_LdRightawdLeftwdShift_LwShift_LddwdaShift_LRightaawShift_LawdLeftwdShift_LaRightsLeftLeftwaRightsLeftwaRightwShift_LaLeftwaRightwaRightwaShift_LddRightLeftLeftddawddLeftwdLeftwddwShift_LLeftdawLeftawLeftdwawdShift_LdawdShift_LdaRightdwaRightawLeftawwdLeftwddwRightawaRightawdRightwaLeftdwaRightRightaLeftdwaLeftwaLeftwdddwdddwdawwShift_LRightadRightdwRightdRightwShift_LdddwdwLeftawdawRightaawRightRightRightdRightRightRightwRightRightdwwdRightRightwaaShift_LasddwdRightwadRightShift_LawdRightRightwawdEscapeShift_LLeftawRightRightawRightaRightawdShift_LdRightaEscapeLeftaaShift_LShift_LdwRightaRightawdwaRightwRightdwRightRightawShift_LdRightssRightwShift_LdddwdddwdawdwLeftdwRightawdwaRightsLeftdwShift_LaLeftRightsaRightwawasawdwdRightaaShift_LdwdLeftaShift_LawdaawawdLeftdwaLeftdawLeftdddwRightdaawdLeftwaLeftwwRightdwaRightawShift_LdLeftdwawaLeftwRightShift_LRightwaLeftwawaRightwdLeftRightRightsRightwdLeftwdRightwdShift_LdRightwdShift_LdaLeftwLeftawawRightdwdLeftddwdLeftdwRightaRightwLeftaaawaLeftwdwShift_LdwdwaaawawwdRightShift_LddwaRightawShift_LLeftwdwawaLeftwdRightsRightwdShift_LddRightasawdRightwaShift_LawawdwdaShift_LRightwdLeftLeftwaaRightRightwdaRightRightwaLeftLeftwShift_LdRightwdShift_LdawaRightwRightwdRightdwaLeftwawdRightwaaShift_LaLeftwShift_LwaRightdwRightaaawaRightwShift_LdRightdwShift_LaawShift_LaLeftwRightwdddwdawdRightwaawawdLeftwShift_LdRightwdwShift_LLeftwaShift_LaRightawaaRightwaLeftwShift_LaRightdwaRightwRightaRightwShift_LdRightdwShift_LRightRightdRightddawdLeftwShift_LShift_LRightdsLeftLeftwaShift_LdLeftwShift_LdwRightawRightawRightLeftaRightwLeftwdLeftdwawdRightwShift_LdLeftwRightwawShift_LLeftawdRightddwdLeftwdShift_LRightdRightdwawRightawRightawLeftawdShift_LdsawddRightwdLeftdwdLeftwaRightwShift_LdwdShift_LdwLeftwaRightwdwRightawRightawRightawLeftwaShift_LdLeftawawaawRightwdLeftwaRightwdRightShift_LdLeftdwdLeftawRightdRightRightwdLeftwShift_LRightawRightawLeftwLeftdwdRightwLeftaawShift_LLeftawShift_LaaawadwRightasLeftRightwShift_LaLeftdRightawLeftaLeftLeftaLeftwaawaLeftwawdRightwdShift_LdLeftdwdwdaRightRightawLeftLeftawdLeftwShift_LdLeftawShift_LawdawdRightRightShift_LdRightwwaLeftwdRightdsRightwdawaRightwShift_LddLeftadwLeftaawShift_LRightRightdwdLeftwdRightddwShift_LaaawaaawShift_LaawShift_LRightdddwdRightawdLeftwdRightwaLeftwaLeftwaRightShift_LaRightawaRightwdRightsLeftRightLeftLeftdsLeftwdwdLeftawdLeftdwdRightwShift_LdRightwdsawShift_LdRightwdShift_LdwRightddwdRightdwdLeftwdRightwShift_LaRightRightwRightRightdwaShift_LaawRightddwShift_LRightawdLeftLeftwdLeftwaaRightwShift_LdawdaaaawdawdawwdRightddwRightdddwdRightawdLeftwShift_LdLeftdwaLeftwRightawRightawLeftwShift_LdwaRightShift_LaRightawaRightwRightaawaRightawaRightawaRightwShift_LRightddwdRightLeftLeftwdLeftwdLeftwaShift_LRightadaawRightawaLeftdShift_LdawaLeftwwdRightShift_LdLeftwaRightwShift_LdRightdwRightdawdLeftwwShift_LawdRightRightdRightRightRightRightsdwShift_LaRightsLeftLeftwaShift_LadRightasLeftRightaRightwaRightdawRightddwdLeftwdadwawaShift_LdRightwaRightwdRightRightdwaRightwwShift_LddwddRightRightwdRightwRightaawRightwddwaawaShift_LadRightawwdLeftawasdwaShift_LaLeftaLeftwdwaLeftwRightwddShift_LddwdRightRightwaLeftadddwRightdwwdwwdwawwdRightwShift_LaRightwdwLeftawdLeftddwRightddwddLeftwdLeftwdRightawRightwaaRightsLeftLeftLeftwdaawawdRightdwdShift_LdddwdawaawLeftdwRightdawdLeftwdLeftwShift_LaRightawRightaawLeftawShift_LLeftawLeftddddwdRightwdaadLeftdwdLeftawdLeftwaRightsasLeftLeftwawdLeftwaRightwLeftaaawRightadwaaLeftwaLeftwdRightShift_LdRightRightRightwShift_LdShift_LdRightRightRightwdLeftwwdShift_LRightdwRightwdRightRightawRightRightdwShift_LdaaddwadaawddwaasdwShift_LaLeftsLeftwShift_LLeftawddShift_LaddwawdRightwdwdLeftwawaLeftShift_LaRightdwaLeftdwaRightwadwwRightaawRightaawLeftawdLeftwddwaRightaawaLeftwdwddwRightwdRightsRightwaLeftwShift_LdLeftwaLeftRightRightawaRightawaShift_LLeftawdRightwRightRightddLeftdwdRightwaRightwdwdShift_LLeftwRightddwddLeftShift_LdwRightdwaLeftsRightRightwShift_LaRightaRightRightdsRightwdRightdwddLeftwdLeftwShift_LRightRightRightwLeftdwdwaRightShift_LawaRightwRightaawdRightwRightdddwRightdawdShift_LaRightShift_LdRightaRightddShift_LRightaRightawShift_LRightRightawShift_LdwLeftawEscapeddadaadwaRightddwwRightRightRightaRightdRightRightaaRightRightRightRightdShift_LLeftawRightaRightawdwdRightwdwRightRightawShift_LdRightdssRightwRightawLeftdwShift_LLeftdddwRightddwdLeftwdwdwaRightasLeftdwShift_LasaRightwasawShift_LRightaRightwRightawddwdwLeftwRightRightwawdwaRightdwRightadadwaRightwdShift_LdRightwdRightwdShift_LddLeftdwdLeftdwdRightawdLeftwaadShift_LdwaRightwRightddwdRightwShift_LdLeftwRightdwRightasRightwwShift_LRightRightddRightwdRightLeftLeftwdLeftwRightwdRightwddwdRightdRightwaRightRightRightRightRightRightwaRightwRightadwRightawLeftwLeftawaadawRightddwdawaRightawaRightwRightawaRightaShift_LawaShift_LLeftadwLeftwaRightawaRightwaRightdwaRightaawaLeftLeftLeftwaaRightwdddRightwRightdwdwdsdwLeftsRightRightwaShift_LRightasRightwShift_LRightawRightawRightawLeftwShift_LdwdRightwRightwdLeftwLeftaawaRightwRightShift_LRightawdRightdwaRightwShift_LawdwdwaaddwawaRightShift_LaRightwdShift_LaawShift_LdRightaaawaRightawaLeftadwRightaawLeftawShift_LawawLeftwRightdwawLeftdwLeftdwRightwwawdaRightRightRightShift_LdLeftwdaShift_LwdRightwRightadwaLeftawLeftaawRightaawaRightwaLeftwShift_LaRightwRightdwLeftdwShift_LLeftwaShift_LdaRightdwaRightShift_LwShift_LRightawRightRightwLeftaawaLeftdwdaRightShift_LawRightwaawdLeftwaRightddaawdwdRightRightEscapeLeftawdwRightaRightwRightdRightwdwRightShift_LaRightdLeftRightRightRightdwRightdwaRightRightwEscapeRightRightaawaShift_LLeftawRightaRightwdShift_LEscapedadwdwRightdawaRightwdShift_LdwdRightShift_LRightdwShift_LaRightRightawShift_LRightaRightwShift_LdRightssRightwLeftdwdwaShift_LaasdwShift_LaRightwdwdLeftwShift_LasaRightwLeftwddwdShift_LaLeftdawLeftawdwdRightawRightwdShift_LddwdRightaShift_LdwShift_LRightwShift_LddwddLeftdwdLeftdwaLeftwRightShift_LLeftdwaRightwLeftdadwLeftaawaLeftdwaaRightdwaLeftwdLeftwShift_LdRightwdRightwdRightdwdShift_LdRightddwShift_LdShift_LdRightdRightdsaaUpLeftRightUpLeftRightdaDownUpRight           go
+    	aileen_tran_the_girl
+    	Shift_RUr_hoa
+back	
+back	wat
+back	
+back	
+back	a
+back	watControl_LAlt_Ltls
+    	cd_Shift_RDwe
+back	
+back	eTab
+    	ls
+    	v
+back	
+back	vim_fiTab
+    	DownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpDownDownUpDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpEscapeShift_Rcolonq
+    	vim_fiTab
+    	DownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownDownUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpUpDownDownDownDownDownUpUpUpUpUpUpUp[269025201][269025067][269025067][269025067]
+    	Shift_RJune152014
+    	[269025201][269025067][269025067]
+    	Shift_RJune152014
+    	
