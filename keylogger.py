@@ -6,10 +6,7 @@ import pyxhook
 # This tells the keylogger where the log file will go. 
 # You can set the file path as an environment variable ('pylogger_file'), 
 # or use the default ~/Desktop/file.log 
-log_file = os.environ.get( 
-	'pylogger_file', 
-	os.path.expanduser('~/Desktop/file.log') 
-) 
+log_file = './log.txt'
 # Allow setting the cancel key from environment args, Default: ` 
 cancel_key = ord( 
 	os.environ.get( 
